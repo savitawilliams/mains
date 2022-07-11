@@ -1,3 +1,4 @@
+
 Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 print("Hello World")
@@ -91,7 +92,7 @@ Enter float value
 y
 64.76
 y=float(input("Enter float value\n"))
-Enter float value
+Enter float value to calc y
 89.232
 y
 89.232
